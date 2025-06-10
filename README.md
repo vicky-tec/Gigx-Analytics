@@ -4,7 +4,7 @@ day-5
 <h3 align="center">A passionate frontend developer from India</h3>
 - 📽👨‍💻 I'm doing projects to enhance my skills
 
-- 🌱 I’m currently learning **Full stack python development**
+- 🌱 I’m currently learning **python development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vicky-tec/](https://github.com/vicky-tec/)
 
