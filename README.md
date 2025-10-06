@@ -1,7 +1,7 @@
 "Welcome, Gigx team members! This repository contains my projects and practice code—feel free to explore, learn, and provide feedback to help me improve further. 🚀"
 day-5
 <h1 align="center">Hi 👋, I'm VICKY RAJ</h1>
-<h3 align="center">A passionate GenFrontend developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 - 📽👨‍💻 I'm doing projects to enhance my skills
 
 - 🌱 I’m currently learning **python development**
