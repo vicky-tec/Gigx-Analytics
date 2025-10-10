@@ -1,4 +1,5 @@
 "Welcome, Gigx team members! This repository contains my projects and practice code—feel free to explore, learn, and provide feedback to help me improve further. 🚀"
+
 <h1 align="center">📊 Gigx – Data Analytics Portfolio</h1>
 
 <p align="center">
@@ -73,10 +74,25 @@ I’m gaining hands-on experience in:
 
 ---
 
+## 💡 Top Skills
+<p align="center">
+  🐍 Python | 🐼 Pandas | 📊 Matplotlib | 📈 Seaborn | 💾 SQL | 📊 Power BI | 📄 Excel | 🧠 Data Analysis | 📊 Data Visualization | 🗂 Dashboard Design
+</p>
+
+---
+
+## 👀 Visitors Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vicky-tec&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
 ## 📫 Contact  
 
 **👨‍💻 Vicky Razz**  
 📧 [vickyrazzz81@gmail.com](mailto:vickyrazzz81@gmail.com)  
+
 ---
 
 <p align="center">
