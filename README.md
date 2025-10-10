@@ -1,21 +1,79 @@
 "Welcome, Gigx team members! This repository contains my projects and practice code—feel free to explore, learn, and provide feedback to help me improve further. 🚀"
-day-5
-<h1 align="center">Hi 👋, I'm VICKY RAJ</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
-- 📽👨‍💻 I'm doing projects to enhance my skills
+<h1 align="center">📊 Gigx – Data Analytics Portfolio</h1>
 
-- 🌱 I’m currently learning **python development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/vicky-tec/](https://github.com/vicky-tec/)
-
-- 📫 How to reach me **vickyrazzz81@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/disturbgaming5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="disturbgaming5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vicky-raj-090760282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vicky-raj-090760282" height="30" width="40" /></a>
-<a href="https://instagram.com/vr_razzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vr_razzz" height="30" width="40" /></a>
+<p align="center">
+  <b>Excel | SQL | Python | Power BI | Data Visualization</b><br>
+  Turning raw data into meaningful insights — one dataset at a time! 🚀
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
+
+## 🧠 About  
+
+Welcome to my **Data Analytics Portfolio**, created as part of my learning journey with **Gigx – Data Analytics**.  
+Through this program, I’ve been enhancing my analytical skills by working on **real-world datasets** and building **interactive dashboards**.  
+
+I’m gaining hands-on experience in:
+- 📈 Data Cleaning and Analysis using **Excel & SQL**
+- 🐍 Data Processing with **Python (Pandas, NumPy, Matplotlib, Seaborn)**
+- 📊 Visualization & Dashboard Building using **Power BI / Excel**
+- 🧠 Deriving actionable **business insights** from data  
+
+> “Upskilling one dataset at a time!” 💪  
+
+---
+
+## 💼 Projects Overview  
+
+| Project | Description | Tools Used | Timeline |
+|----------|--------------|-------------|-----------|
+| **📦 Flipkart_Analysis** | Flipkart Big Billion Days dashboard analyzing sales trends, revenue, and customer behavior. | Python, Pandas, Seaborn, Matplotlib | 2 days ago |
+| **🛒 E-commerce Analysis** | Interactive dashboard visualizing product sales, customer orders, and profit distribution. | Excel, Power BI | 5 months ago |
+| **⚡ Blinkit_DASHBOARD** | Sales and delivery performance analysis dashboard for Blinkit. | Power BI | 5 months ago |
+| **🧾 Retail-Sales-Analysis-SQL-Project--P2_vr** | SQL-based retail analysis focusing on revenue and customer segmentation. | SQL | 6 months ago |
+| **🧍‍♂️ Customer-Churn-analysis-main** | Churn prediction project identifying factors behind customer loss. | Python, Pandas, Matplotlib | 6 months ago |
+| **🥗 Gresorey** | Grocery store sales analysis with focus on seasonal buying trends. | Excel, Power BI | 1 month ago |
+| **🎓 Student Addiction Data** | Behavioral data analysis of student activities and habits. | Excel, Python | 2 months ago |
+| **💰 Tip Analysis** | Analyzed restaurant tipping patterns and customer spending habits. | Python, Seaborn | 4 months ago |
+| **📘 Excel_Analysis.xlsx** | Excel-based data exploration with pivot tables and charts. | Excel | — |
+
+---
+
+## ⚙️ Skills & Tools  
+
+| Category | Tools |
+|-----------|-------|
+| **Data Analysis** | Python (Pandas, NumPy), Excel |
+| **Visualization** | Power BI, Matplotlib, Seaborn |
+| **Databases** | SQL, MySQL |
+| **Others** | Data Cleaning, Dashboard Design, Storytelling with Data |
+
+---
+
+## 🧰 Tools & Libraries Used  
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" alt="Jupyter Notebook"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" alt="NumPy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45" alt="Matplotlib"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" alt="Seaborn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="45" alt="Excel"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" alt="Power BI"/>
+</p>
+
+---
+
+## 📫 Contact  
+
+**👨‍💻 Vicky Razz**  
+📧 [vickyrazzz81@gmail.com](mailto:vickyrazzz81@gmail.com)  
+---
+
+<p align="center">
+  ⭐ If you found my work insightful, don’t forget to star this repo and follow my journey! ⭐
+</p>
+
+rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
