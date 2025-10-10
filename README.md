@@ -53,6 +53,7 @@ I’m gaining hands-on experience in:
 ## 🧰 Tools & Libraries Used  
 
 <p align="center">
+  <!-- Core Languages & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" alt="Jupyter Notebook"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/>
@@ -60,8 +61,14 @@ I’m gaining hands-on experience in:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" alt="NumPy"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45" alt="Matplotlib"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" alt="Seaborn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="45" alt="Excel"/>
+
+  <!-- Excel & Power BI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_(2019–present).svg" width="45" alt="Excel"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" alt="Power BI"/>
+
+  <!-- AI & ML Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" alt="Scikit-learn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Artificial_intelligence_logo.svg" width="45" alt="Artificial Intelligence"/>
 </p>
 
 ---
