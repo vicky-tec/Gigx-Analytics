@@ -1,125 +1,222 @@
-# 👋 Hi, I'm Vicky Tec | Data Analytics Enthusiast
-
-<div align="center">
-  
-  [![GitHub followers](https://img.shields.io/github/followers/vicky-tec?style=social)](https://github.com/vicky-tec)
-  [![Profile Views](https://komarev.com/ghpvc/?username=vicky-tec&color=blueviolet)](https://github.com/vicky-tec)
-  
-</div>
-
----
-
-## 📊 About Me
-
-Welcome to my GitHub! I'm a passionate **Data Analytics Professional** on a mission to transform raw data into actionable insights. I believe that data tells stories, and I'm here to uncover them! 🚀
-
-> *"Upskilling one dataset at a time!"*
-
-I specialize in turning complex data challenges into clear, visual narratives using modern analytics tools and techniques.
-
----
-
-## 🎯 What I Do
-
-- 📈 **Data Analysis & Visualization** - Transforming data into compelling visual stories
-- 💾 **SQL & Database Management** - Querying and optimizing data for insights
-- 🐍 **Python Programming** - Building analytical scripts and automation solutions
-- 📊 **Excel Mastery** - Advanced spreadsheets, dashboards, and data modeling
-- 🎨 **Dashboard Development** - Creating interactive dashboards for decision-making
-
----
-
-## 🛠️ Tech Stack
-
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+# 📊 **Gigx-Analytics**  
+### *A Complete Data Analytics Portfolio by **Vicky Raj***
+
+<img src="https://komarev.com/ghpvc/?username=vicky-tec&style=for-the-badge&label=Repository+Views&color=6a0dad" />
 
 </div>
 
 ---
 
-## 📁 Featured Projects
-
-### 🎯 Gigx-Analytics
-**Data Analytics Repository** | Jupyter Notebooks
-
-A comprehensive collection of real-world data analytics projects showcasing:
-- Customer behavior analysis
-- Sales performance dashboards
-- E-commerce insights
-- Retail analytics using SQL
-- Churn prediction models
-
-**Key Projects Include:**
-- **Blinkit Dashboard** - Real-time analytics dashboard
-- **E-commerce Analysis** - Sales trends and customer segmentation
-- **Flipkart Analysis** - Big Billion Days sales insights
-- **Customer Churn Analysis** - Predictive analytics
-- **Retail Sales SQL Project** - Complex database queries
-- **Student Addiction Data** - Statistical analysis
-- **Tip Analysis** - Behavioral insights
-
-👉 [Explore Gigx-Analytics Repository](https://github.com/vicky-tec/Gigx-Analytics)
-
----
-
-## 📈 GitHub Statistics
-
 <div align="center">
 
-![Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicky-tec&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicky-tec&layout=compact&theme=radical)
+## 🚀 Transforming Raw Data Into Actionable Business Insights  
+### *Advanced Dashboards • SQL Pipelines • Exploratory Data Analysis • Predictive Modeling*
 
 </div>
 
 ---
 
-## 🎓 Learning Journey
+## 📌 **About Gigx-Analytics**
 
-I'm continuously upskilling in:
-- Advanced statistical analysis
-- Machine learning for analytics
-- Big data technologies
-- Advanced visualization techniques
-- Business intelligence tools
+**Gigx-Analytics** is my curated portfolio of end-to-end **data analytics projects**, each representing a real-world business scenario.  
+From E-commerce performance to customer churn prediction — this repo showcases my expertise in:
 
----
+- 🧹 **Data Cleaning**
+- 📊 **Exploratory Data Analysis (EDA)**
+- 🔍 **Insight Extraction**
+- 📈 **Dashboard Development**
+- 💾 **SQL Analytics**
+- 🤖 **Basic ML for Decision Support**
 
-## 💡 Philosophy
-
-*"Data is the new oil, and insights are the refined fuel for better decision-making."*
-
-I'm passionate about making data accessible and understandable to everyone, regardless of technical background.
+This repository is designed to give recruiters, hiring managers, and collaborators a clear view of my **analytics workflow, problem-solving ability, and storytelling using data**.
 
 ---
 
-## 📬 Let's Connect!
+## 🗂️ **Repository Structure (Screenshot Overview)**
+
+> A snapshot of the structured analytics projects inside Gigx-Analytics:
+
+<img src="SCREENSHOT.png" alt="Repository Screenshot">
+
+---
+
+## 🧰 **Tech Stack Used**
 
 <div align="center">
 
-[LinkedIn](#) | [Twitter](#) | [Email](#) | [Portfolio](#)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-0156a2?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4E79A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 </div>
 
 ---
 
-## ⭐ Support
+## ⭐ **Featured Projects Inside This Repository**
 
-If you find my projects helpful, please consider starring ⭐ them. Your support motivates me to create better content!
+Below are the key analytics projects bundled inside this repository — each folder contains datasets, notebooks, visuals, and dashboards.
+
+---
+
+### 🔶 **1. Blinkit Dashboard**  
+> Real-time sales & operations dashboard
+
+**Highlights:**  
+- Outlet performance comparison  
+- Sales vs demand forecasting  
+- Category insights  
+
+📌 Tools: *Excel | Power BI | Python*
+
+---
+
+### 🔵 **2. E-commerce Sales Analysis**  
+> End-to-end analysis of customer behavior, purchases & revenue trends
+
+**Highlights:**  
+- RFM segmentation  
+- Seasonal trends  
+- Top-selling categories  
+
+📌 Tools: *Python (Pandas, Seaborn)*
+
+---
+
+### 🟣 **3. Flipkart Big Billion Days Analysis**  
+> Deep dive into India’s largest shopping event
+
+**Highlights:**  
+- Revenue peaks  
+- Category-wise performance  
+- Discount effectiveness  
+
+📌 Tools: *Excel | Python | Visualization*
+
+---
+
+### 🟧 **4. Customer Churn Analysis**  
+> Predicting customers likely to leave a service
+
+**Highlights:**  
+- Exploratory data analysis  
+- Feature patterns  
+- Customer retention insights  
+
+📌 Tools: *Python (EDA), Visualization*
+
+---
+
+### 🟢 **5. Retail Sales SQL Project**  
+> Full SQL-based analytics project
+
+**Highlights:**  
+- JOINS, GROUP BY, Window Functions  
+- KPI calculations  
+- Profitability analysis  
+
+📌 Tools: *MySQL*
+
+---
+
+### 🟡 **6. Student Addiction Data Study**  
+> Behavioral pattern analysis using survey data
+
+**Highlights:**  
+- Lifestyle correlations  
+- Psychology-backed insights  
+
+📌 Tools: *Python | Stats*
+
+---
+
+### 🟤 **7. Tip Analysis (Restaurant Dataset)**  
+> Insights on tipping behavior
+
+**Highlights:**  
+- Gender influence  
+- Day-wise trends  
+- Bill vs tip correlation  
+
+📌 Tools: *Python | Seaborn*
+
+---
+
+### 🟫 **8. Grocery Sales Data**  
+> Small-scale retail analytics
+
+**Highlights:**  
+- Multi-outlet sales  
+- Pricing trends  
+
+📌 Tools: *Python*
+
+---
+
+## 📂 **Excel Dashboard Files**
+
+Includes professional dashboards such as:  
+- Sales dashboards  
+- Operational dashboards  
+- Revenue trend maps  
+- Visual KPI boards  
+
+📌 File: **Excel_Analysis.xlsx**
+
+---
+
+## 📈 **Key Analytics Capabilities Demonstrated**
+
+- ✔ Business Decision Support  
+- ✔ KPI Dashboards  
+- ✔ Data Cleaning & Wrangling  
+- ✔ Visual Storytelling  
+- ✔ SQL Query Optimization  
+- ✔ Consumer Behavior Analytics  
+- ✔ Forecasting-Level Insights  
+- ✔ Professional Documentation  
 
 ---
 
 <div align="center">
 
-**Made with ❤️ by Vicky Tec**
+## 📊 GitHub Stats
 
-*Last Updated: February 2026*
+<img src="https://github-readme-stats.vercel.app/api/?username=vicky-tec&show_icons=true&theme=tokyonight&count_private=true" height="170px" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicky-tec&layout=compact&theme=tokyonight" height="150px" />
+
+</div>
+
+---
+
+## 🔗 **Explore More**
+
+👉 **Main Portfolio:**  
+https://github.com/vicky-tec
+
+👉 **Travally – AI Travel Assistant (Live):**  
+https://vicky-tec.github.io/TRAVALLY_/
+
+---
+
+## 📬 Contact  
+📧 Email: **vickyrazzz81@gmail.com**  
+🔗 LinkedIn: **linkedin.com/in/vicky-raj-090760282**
+
+---
+
+<div align="center">
+
+### ⭐ If this repo inspired you, consider giving it a star!  
+
+**Made with ❤️ by Vicky Raj**
 
 </div>
