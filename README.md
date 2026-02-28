@@ -1,7 +1,7 @@
 <div align="center">
 
 # 📊 **Gigx-Analytics**  
-### *A Complete Data Analytics Portfolio by **Vicky Raj***
+### *A Complete Data Analytics projects by **Vicky Raj***
 
 <img src="https://komarev.com/ghpvc/?username=vicky-tec&style=for-the-badge&label=Repository+Views&color=6a0dad" />
 
@@ -31,14 +31,6 @@ From E-commerce performance to customer churn prediction — this repo showcases
 - 🤖 **Basic ML for Decision Support**
 
 This repository is designed to give recruiters, hiring managers, and collaborators a clear view of my **analytics workflow, problem-solving ability, and storytelling using data**.
-
----
-
-## 🗂️ **Repository Structure (Screenshot Overview)**
-
-> A snapshot of the structured analytics projects inside Gigx-Analytics:
-
-<img src="SCREENSHOT.png" alt="Repository Screenshot">
 
 ---
 
@@ -182,18 +174,6 @@ Includes professional dashboards such as:
 - ✔ Consumer Behavior Analytics  
 - ✔ Forecasting-Level Insights  
 - ✔ Professional Documentation  
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/?username=vicky-tec&show_icons=true&theme=tokyonight&count_private=true" height="170px" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicky-tec&layout=compact&theme=tokyonight" height="150px" />
-
-</div>
 
 ---
 
