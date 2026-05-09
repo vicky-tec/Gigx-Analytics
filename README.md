@@ -152,6 +152,18 @@ Below are the key analytics projects bundled inside this repository — each fol
 
 ---
 
+### 🟫 **9. Tata Motors Data**  
+>   Insight and analytics
+
+**Highlights:**  
+- Multi-columns  
+- Opening and Closing trend
+- High and Low 
+
+📌 Tools: *Python*
+
+---
+
 ## 📂 **Excel Dashboard Files**
 
 Includes professional dashboards such as:  
@@ -181,6 +193,7 @@ Includes professional dashboards such as:
 
 👉 **Main Portfolio:**  
 https://github.com/vicky-tec
+*view* - https://vickyrajiit.vercel.app/
 
 👉 **Travally – AI Travel Assistant (Live):**  
 https://vicky-tec.github.io/TRAVALLY_/
