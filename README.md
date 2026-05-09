@@ -160,7 +160,7 @@ Below are the key analytics projects bundled inside this repository — each fol
 - Opening and Closing trend
 - High and Low 
 
-📌 Tools: *Python*
+📌 Tools: *Python | Seaborn | Dashboard*
 
 ---
 
@@ -192,7 +192,7 @@ Includes professional dashboards such as:
 ## 🔗 **Explore More**
 
 👉 **Main Portfolio:**  
-https://github.com/vicky-tec
+https://github.com/vicky-tec <br>
 *view* - https://vickyrajiit.vercel.app/
 
 👉 **Travally – AI Travel Assistant (Live):**  
